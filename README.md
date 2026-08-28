@@ -1,5 +1,4 @@
 # linkedin-agent-analytics
-# LinkedIn Agent Analytics Platform 🚀
 
 An end-to-end analytics platform designed to collect, process, store, analyze, and visualize LinkedIn lead-generation and outreach activity.
 
