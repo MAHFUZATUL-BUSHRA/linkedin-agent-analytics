@@ -84,7 +84,7 @@ The project includes an interactive **Streamlit analytics dashboard** for explor
 
 ### Dashboard Preview
 
-![LinkedIn Agent Analytics Dashboard](screenshots/dashboard.png)
+![LinkedIn Agent Analytics Dashboard](1.png)
 
 > **Privacy Note:** Personal information, LinkedIn profile details, account-specific information, and other sensitive/assessment-related content have been hidden or anonymized in the dashboard preview.
 
